@@ -5,26 +5,23 @@ Open source and free to read for Non-commercial use.
 
 Will update a chapter once completed.
 
-NOTICE: the book is still in developing and feel free to submit a issues to make it better. 
+NOTICE: the book is still in developing and feel free to submit a issues to make it better.
 
 
 # Contents
 
-- Introduction
-- Linear Regression
-- Classification
-- TensorFlow 2 Basics
-- TensorFlow 2 Pro
-- Neural Network
-- Backpropagation Algorithm
-- Keras Basics
-- Overfitting
-- Convolutional Neural Network
-- Recurrent Neural Network
-- Auto-Encoders
-- Generative Adversarial Network
-- Reinforcement Learning
-- Custom Dataset pipeline
-
-
-
+- 01.Introduction
+- 02.Regression
+- 03.Classification
+- 04.TensorFlow 2 Basics
+- 05.TensorFlow 2 Pro
+- 06.Neural Network
+- 07.Backpropagation Algorithm
+- 08.Keras Basics
+- 09.Overfitting
+- 10.Convolutional Neural Network
+- 11.Recurrent Neural Network
+- 12.Auto-Encoders
+- 13.Generative Adversarial Network
+- 14.Reinforcement Learning
+- 15.Custom Dataset pipeline
