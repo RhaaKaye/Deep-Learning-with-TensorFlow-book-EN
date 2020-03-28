@@ -1,5 +1,5 @@
 # Deep-Learning-with-TensorFlow-book-EN
-Deep Learning with TensorFlow 2.0+ eBook.
+Deep Learning with TensorFlow 2+ eBook.
 
 Open source and free to read for Non-commercial use.
 
